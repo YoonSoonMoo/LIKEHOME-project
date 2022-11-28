@@ -33,11 +33,4 @@
 - API를 활용한 주문결제시스템 구현
 - 사용자 활동에 따라 포인트 관리 기능 구현
 
-## 4. 서비스 화면
-## 서비스 화면
 
-![localhost_8181_likehome_product_productDetailPage_product_no=11(iPhone 12 Pro) (2).png](LIKEHOME%20-%20%E1%84%8C%E1%85%B5%E1%86%B8%E1%84%81%E1%85%AE%E1%84%86%E1%85%B5%E1%84%80%E1%85%B5%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%B2%20&%20%E1%84%89%E1%85%AD%E1%84%91%E1%85%B5%E1%86%BC%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%208db3d41030ed48f4b5e86a0d9fa4ee7d/localhost_8181_likehome_product_productDetailPage_product_no11(iPhone_12_Pro)_(2).png)
-
-![localhost_8181_likehome_order_cartPage(iPhone SE) (4).png](LIKEHOME%20-%20%E1%84%8C%E1%85%B5%E1%86%B8%E1%84%81%E1%85%AE%E1%84%86%E1%85%B5%E1%84%80%E1%85%B5%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%B2%20&%20%E1%84%89%E1%85%AD%E1%84%91%E1%85%B5%E1%86%BC%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%208db3d41030ed48f4b5e86a0d9fa4ee7d/localhost_8181_likehome_order_cartPage(iPhone_SE)_(4).png)
-
-![localhost_8181_likehome_customer_customerShoppingStatePage(iPhone 12 Pro).png](LIKEHOME%20-%20%E1%84%8C%E1%85%B5%E1%86%B8%E1%84%81%E1%85%AE%E1%84%86%E1%85%B5%E1%84%80%E1%85%B5%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%B2%20&%20%E1%84%89%E1%85%AD%E1%84%91%E1%85%B5%E1%86%BC%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%208db3d41030ed48f4b5e86a0d9fa4ee7d/localhost_8181_likehome_customer_customerShoppingStatePage(iPhone_12_Pro).png)
